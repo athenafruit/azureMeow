@@ -33,9 +33,11 @@ export default defineConfig({
         {
           text: '📚 文章列表',
           items: [
+            { text: '从Dia浏览器引发的产品思考', link: '/posts/从Dia浏览器引发的产品思考' },
+            { text: '一些关于AI创作的思考', link: '/posts/一些关于AI创作的思考' },
+            { text: '为什么说办公场景下做播客是个伪需求', link: '/posts/为什么说办公场景下做播客是个伪需求' },
             { text: 'NotebookLM 与知识管理思考', link: '/posts/产品思考：notebookLM & 知识管理相关' },
-            { text: '欢迎来到我的博客', link: '/posts/welcome' },
-            { text: '从飞书到 GitHub', link: '/posts/feishu-to-github' }
+            { text: '欢迎来到我的博客', link: '/posts/welcome' }
           ]
         }
       ]
