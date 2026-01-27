@@ -4,6 +4,7 @@
 
 ## 最新文章
 
+- [NotebookLM 与知识管理思考](/posts/产品思考：notebookLM%20&%20知识管理相关) - 从信息输入到输出的产品体验分析
 - [欢迎来到我的博客](/posts/welcome) - 博客的第一篇文章
 - [从飞书到 GitHub](/posts/feishu-to-github) - 如何将飞书文档迁移到 GitHub
 

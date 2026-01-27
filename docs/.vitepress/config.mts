@@ -33,6 +33,7 @@ export default defineConfig({
         {
           text: '📚 文章列表',
           items: [
+            { text: 'NotebookLM 与知识管理思考', link: '/posts/产品思考：notebookLM & 知识管理相关' },
             { text: '欢迎来到我的博客', link: '/posts/welcome' },
             { text: '从飞书到 GitHub', link: '/posts/feishu-to-github' }
           ]
