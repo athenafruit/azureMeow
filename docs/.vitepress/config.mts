@@ -35,6 +35,7 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.12 点点体验 240922', link: '/chuanchuanshao/No.12 点点体验 240922' },
             { text: 'No.11 支小宝和文小言体验 240908', link: '/chuanchuanshao/No.11 支小宝和文小言体验 240908' },
             { text: 'No.10 山海奇境之劈波斩浪 240825', link: '/chuanchuanshao/No.10 山海奇境之劈波斩浪 240825' },
             { text: 'No.9 如果相机体验 240818', link: '/chuanchuanshao/No.9 如果相机体验 240818' },
