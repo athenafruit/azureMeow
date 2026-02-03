@@ -642,3 +642,108 @@ body {
   }
 }
 
+/* ============================================
+   串串烧列表页样式
+   ============================================ */
+.chuanchuanshao-container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 48px 24px 80px;
+}
+
+.chuanchuanshao-container h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.chuanchuanshao-container .page-desc {
+  text-align: center;
+  color: var(--vp-c-text-3);
+  font-style: italic;
+  margin-bottom: 32px;
+}
+
+.chuanchuanshao-container hr {
+  border: none;
+  height: 1px;
+  background: var(--vp-c-divider);
+  margin: 32px 0;
+}
+
+.timeline-section h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  margin: 40px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--vp-c-brand-1);
+  display: inline-block;
+}
+
+/* 折叠面板样式 */
+.chuanchuanshao-container details {
+  margin: 16px 0;
+}
+
+.chuanchuanshao-container summary.year-toggle {
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  padding: 8px 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.2s ease;
+}
+
+.chuanchuanshao-container summary.year-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.chuanchuanshao-container summary.year-toggle::before {
+  content: '▸';
+  font-size: 0.75rem;
+  transition: transform 0.2s ease;
+}
+
+.chuanchuanshao-container details[open] summary.year-toggle::before {
+  transform: rotate(90deg);
+}
+
+.chuanchuanshao-container summary.year-toggle:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.chuanchuanshao-container .timeline-item {
+  margin-left: 16px;
+}
+
+.chuanchuanshao-container .footer-note {
+  text-align: center;
+  color: var(--vp-c-text-3);
+  font-size: 0.9rem;
+  margin-top: 48px;
+}
+
+/* ============================================
+   阅读进度条
+   ============================================ */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--vp-c-brand-1), var(--vp-c-brand-3));
+  z-index: 9999;
+  transition: width 0.1s ease-out;
+}
+
+/* 确保进度条在导航栏上方 */
+.VPNav {
+  z-index: 100;
+}
+
