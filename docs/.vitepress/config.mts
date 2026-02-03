@@ -96,7 +96,8 @@ export default defineConfig({
             { text: '和 DeepSeek/MiniMax M1 讨论产品问题', link: '/posts/和DeepSeek_MiniMax_M1讨论几个产品问题' },
             { text: '一些关于 AI 搜索的思考', link: '/posts/一些关于AI搜索的思考' },
             { text: '一些关于 AI 创作的思考', link: '/posts/一些关于AI创作的思考' },
-            { text: '聊一下 OpenClaw/Moltbot/Clawdbot', link: '/posts/聊一下OpenClaw_Moltbot_Clawdbot' }
+            { text: '聊一下 OpenClaw/Moltbot/Clawdbot（一）', link: '/posts/聊一下OpenClaw_Moltbot_Clawdbot' },
+            { text: '聊一下 OpenClaw/Moltbot/Clawdbot（二）', link: '/posts/聊一下OpenClaw&Moltbot&Clawdbot（2）' }
           ]
         },
         {
