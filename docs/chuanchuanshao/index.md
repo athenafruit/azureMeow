@@ -1,6 +1,7 @@
 ---
 title: 产品串串烧
 description: 随手记录的产品小体验，一口一个，回味无穷
+sidebar: false
 ---
 
 <div class="chuanchuanshao-container">

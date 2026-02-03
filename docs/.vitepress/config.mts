@@ -29,7 +29,26 @@ export default defineConfig({
       { text: '关于', link: '/about' }
     ],
 
-    sidebar: {},
+    sidebar: {
+      '/posts/': [
+        {
+          text: '📝 文章',
+          collapsed: true,
+          items: [
+            { text: '← 返回文章列表', link: '/posts/' },
+          ]
+        }
+      ],
+      '/chuanchuanshao/': [
+        {
+          text: '🍢 串串烧',
+          collapsed: true,
+          items: [
+            { text: '← 返回串串烧列表', link: '/chuanchuanshao/' },
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com' }

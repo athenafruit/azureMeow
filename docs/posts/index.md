@@ -1,6 +1,7 @@
 ---
 title: 全部文章
 description: 探索 · 记录 · 分享
+sidebar: false
 ---
 
 <div class="posts-container">
