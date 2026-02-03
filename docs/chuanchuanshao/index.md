@@ -13,6 +13,7 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.11 支小宝和文小言体验 240908](/chuanchuanshao/No.11%20支小宝和文小言体验%20240908) <small>2024.09.08</small>
 - [No.10 山海奇境之劈波斩浪 240825](/chuanchuanshao/No.10%20山海奇境之劈波斩浪%20240825) <small>2024.08.25</small>
 - [No.9 如果相机体验 240818](/chuanchuanshao/No.9%20如果相机体验%20240818) <small>2024.08.18</small>
 - [No.8 圆周轨迹体验 240811](/chuanchuanshao/No.8%20圆周轨迹体验%20240811) <small>2024.08.11</small>
