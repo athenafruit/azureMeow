@@ -25,10 +25,19 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/' },
+      { text: '串串烧', link: '/chuanchuanshao/' },
       { text: '关于', link: '/about' }
     ],
 
     sidebar: {
+      '/chuanchuanshao/': [
+        {
+          text: '🍢 产品串串烧',
+          items: [
+            { text: '关于串串烧', link: '/chuanchuanshao/' }
+          ]
+        }
+      ],
       '/posts/': [
         {
           text: '🤖 AI 产品思考',
