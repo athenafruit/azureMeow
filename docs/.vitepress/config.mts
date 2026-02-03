@@ -35,6 +35,7 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.2 百度文库体验 240602', link: '/chuanchuanshao/No.2 百度文库体验 240602' },
             { text: 'No.1 腾讯元宝体验 240531', link: '/chuanchuanshao/No.1 腾讯元宝体验 240531' }
           ]
         }
