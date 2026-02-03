@@ -89,37 +89,21 @@ export default defineConfig({
       ],
       '/posts/': [
         {
-          text: '🤖 AI 产品思考',
+          text: '📅 全部文章（按时间排序）',
           items: [
-            { text: 'Manus 体验（最后有故事）', link: '/posts/Manus体验_最后有故事' },
-            { text: 'Mark 下 DeepSeek', link: '/posts/Mark下DeepSeek' },
-            { text: '和 DeepSeek/MiniMax M1 讨论产品问题', link: '/posts/和DeepSeek_MiniMax_M1讨论几个产品问题' },
-            { text: '一些关于 AI 搜索的思考', link: '/posts/一些关于AI搜索的思考' },
-            { text: '一些关于 AI 创作的思考', link: '/posts/一些关于AI创作的思考' },
-            { text: '聊一下 OpenClaw/Moltbot/Clawdbot（一）', link: '/posts/聊一下OpenClaw_Moltbot_Clawdbot' },
-            { text: '聊一下 OpenClaw/Moltbot/Clawdbot（二）', link: '/posts/聊一下OpenClaw&Moltbot&Clawdbot（2）' }
-          ]
-        },
-        {
-          text: '📝 知识管理',
-          items: [
-            { text: 'NotebookLM 与知识管理（二）', link: '/posts/产品思考_NotebookLM_知识管理相关_2' },
-            { text: 'NotebookLM 与知识管理（一）', link: '/posts/产品思考：notebookLM & 知识管理相关' },
-            { text: '为什么办公场景下播客是伪需求', link: '/posts/为什么说办公场景下做播客是个伪需求' }
-          ]
-        },
-        {
-          text: '🔧 产品体验',
-          items: [
-            { text: '从 Dia 浏览器引发的产品思考', link: '/posts/从Dia浏览器引发的产品思考' },
-            { text: '产品体验：独响', link: '/posts/产品体验_独响' },
-            { text: '解锁新玩具', link: '/posts/解锁新玩具' }
-          ]
-        },
-        {
-          text: '📚 其他',
-          items: [
-            { text: '欢迎来到我的博客', link: '/posts/welcome' }
+            { text: '2026.02.02 · 聊一下 OpenClaw（二）', link: '/posts/聊一下OpenClaw&Moltbot&Clawdbot（2）' },
+            { text: '2026.01.30 · 聊一下 OpenClaw（一）', link: '/posts/聊一下OpenClaw_Moltbot_Clawdbot' },
+            { text: '2026.01.25 · 为什么办公场景下播客是伪需求', link: '/posts/为什么说办公场景下做播客是个伪需求' },
+            { text: '2026.01.18 · NotebookLM 与知识管理（二）', link: '/posts/产品思考_NotebookLM_知识管理相关_2' },
+            { text: '2026.01.10 · NotebookLM 与知识管理（一）', link: '/posts/产品思考：notebookLM & 知识管理相关' },
+            { text: '2025.08.23 · 解锁新玩具', link: '/posts/解锁新玩具' },
+            { text: '2025.08.16 · 一些关于 AI 创作的思考', link: '/posts/一些关于AI创作的思考' },
+            { text: '2025.08.12 · 从 Dia 浏览器引发的产品思考', link: '/posts/从Dia浏览器引发的产品思考' },
+            { text: '2025.07.13 · 一些关于 AI 搜索的思考', link: '/posts/一些关于AI搜索的思考' },
+            { text: '2025.06.22 · 和 DeepSeek/MiniMax M1 讨论产品问题', link: '/posts/和DeepSeek_MiniMax_M1讨论几个产品问题' },
+            { text: '2025.05.18 · Manus 体验（最后有故事）', link: '/posts/Manus体验_最后有故事' },
+            { text: '2025.02.23 · 产品体验：独响', link: '/posts/产品体验_独响' },
+            { text: '2025.02.02 · Mark 下 DeepSeek', link: '/posts/Mark下DeepSeek' }
           ]
         }
       ]
