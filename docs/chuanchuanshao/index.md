@@ -13,6 +13,7 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.49 千问小剧场体验 251217](/chuanchuanshao/No.49%20千问小剧场体验%20251217) <small>2025.12.17</small>
 - [No.48 灵光体验 251118](/chuanchuanshao/No.48%20灵光体验%20251118) <small>2025.11.18</small>
 - [No.47 AI买药问诊对比 251113](/chuanchuanshao/No.47%20AI买药问诊对比%20251113) <small>2025.11.13</small>
 - [No.46 AQ体验 250930](/chuanchuanshao/No.46%20AQ体验%20250930) <small>2025.09.30</small>
