@@ -13,6 +13,7 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.8 圆周轨迹体验 240811](/chuanchuanshao/No.8%20圆周轨迹体验%20240811) <small>2024.08.11</small>
 - [No.7 胃之书体验 240804](/chuanchuanshao/No.7%20胃之书体验%20240804) <small>2024.08.04</small>
 - [No.6 Coze模型广场体验 240613](/chuanchuanshao/No.6%20Coze模型广场体验%20240613) <small>2024.06.13</small>
 - [No.4&5 知我AI&飞脑体验 240612](/chuanchuanshao/No.4&5%20知我AI&飞脑体验%20240612) <small>2024.06.12</small>
