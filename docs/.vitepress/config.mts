@@ -35,6 +35,8 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.39 Dia浏览器思考 250812', link: '/chuanchuanshao/No.39 Dia浏览器思考 250812' },
+            { text: 'No.38 Roboneo体验 250812', link: '/chuanchuanshao/No.38 Roboneo体验 250812' },
             { text: 'No.37 博查搜索体验 250722', link: '/chuanchuanshao/No.37 博查搜索体验 250722' },
             { text: 'No.36 Tizzy.zi体验 250720', link: '/chuanchuanshao/No.36 Tizzy.zi体验 250720' },
             { text: 'No.35 X家机器人Ani体验 250720', link: '/chuanchuanshao/No.35 X家机器人Ani体验 250720' },

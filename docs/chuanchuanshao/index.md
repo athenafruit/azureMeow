@@ -13,6 +13,8 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.39 Dia浏览器思考 250812](/chuanchuanshao/No.39%20Dia浏览器思考%20250812) <small>2025.08.12</small>
+- [No.38 Roboneo体验 250812](/chuanchuanshao/No.38%20Roboneo体验%20250812) <small>2025.08.12</small>
 - [No.37 博查搜索体验 250722](/chuanchuanshao/No.37%20博查搜索体验%20250722) <small>2025.07.22</small>
 - [No.36 Tizzy.zi体验 250720](/chuanchuanshao/No.36%20Tizzy.zi体验%20250720) <small>2025.07.20</small>
 - [No.35 X家机器人Ani体验 250720](/chuanchuanshao/No.35%20X家机器人Ani体验%20250720) <small>2025.07.20</small>
