@@ -1,26 +1,120 @@
 ---
 layout: home
-
-hero:
-  name: "Azure's Blog"
-  text: "探索 · 记录 · 分享"
-  tagline: 在代码与文字之间，寻找思想的栖息地
-  actions:
-    - theme: brand
-      text: 阅读文章 →
-      link: /posts/
-    - theme: alt
-      text: 了解更多
-      link: /about
-
-features:
-  - icon: 🎯
-    title: 深度思考
-    details: 不止于表面，深入探索技术原理与最佳实践，记录学习路上的每一次顿悟
-  - icon: ✨
-    title: 简约至上
-    details: 用最清晰的语言，传递最核心的价值。删繁就简，让知识触手可及
-  - icon: 🌱
-    title: 持续成长
-    details: 写作即是学习，分享即是进步。在输出中倒逼输入，在交流中碰撞火花
 ---
+
+<div class="home-container">
+
+# Azure's Blog
+
+<p class="tagline">探索 · 记录 · 分享</p>
+
+<nav class="home-nav">
+  <a href="/azureMeow/posts/">文章</a>
+  <span class="dot">·</span>
+  <a href="/azureMeow/chuanchuanshao/">串串烧</a>
+  <span class="dot">·</span>
+  <a href="/azureMeow/about">关于</a>
+</nav>
+
+---
+
+## 最新文章
+
+<div class="timeline">
+
+### 2026
+
+<div class="timeline-item">
+  <span class="date">01.10</span>
+  <a href="/azureMeow/posts/Manus体验_最后有故事">Manus 体验（最后有故事）</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">01.08</span>
+  <a href="/azureMeow/posts/Mark下DeepSeek">Mark 下 DeepSeek</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">01.05</span>
+  <a href="/azureMeow/posts/和DeepSeek_MiniMax_M1讨论几个产品问题">和 DeepSeek/MiniMax M1 讨论产品问题</a>
+</div>
+
+### 2025
+
+<div class="timeline-item">
+  <span class="date">12.20</span>
+  <a href="/azureMeow/posts/一些关于AI搜索的思考">一些关于 AI 搜索的思考</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">12.15</span>
+  <a href="/azureMeow/posts/一些关于AI创作的思考">一些关于 AI 创作的思考</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">12.01</span>
+  <a href="/azureMeow/posts/产品思考_NotebookLM_知识管理相关_2">NotebookLM 与知识管理（二）</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">11.20</span>
+  <a href="/azureMeow/posts/产品思考：notebookLM%20&%20知识管理相关">NotebookLM 与知识管理（一）</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">11.10</span>
+  <a href="/azureMeow/posts/从Dia浏览器引发的产品思考">从 Dia 浏览器引发的产品思考</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">10.25</span>
+  <a href="/azureMeow/posts/为什么说办公场景下做播客是个伪需求">为什么办公场景下播客是伪需求</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">08.23</span>
+  <a href="/azureMeow/posts/解锁新玩具">解锁新玩具 - LoRA 模型训练</a>
+</div>
+
+</div>
+
+<p class="view-all"><a href="/azureMeow/posts/">查看全部文章 →</a></p>
+
+---
+
+## 🍢 产品串串烧
+
+<p class="section-desc">随手记录的产品小体验，一口一个，回味无穷。</p>
+
+<div class="timeline mini">
+
+<div class="timeline-item">
+  <span class="date">01.10</span>
+  <a href="/azureMeow/chuanchuanshao/No.50%20NotebookLM思考%20260110">No.50 NotebookLM 思考</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">12.17</span>
+  <a href="/azureMeow/chuanchuanshao/No.49%20千问小剧场体验%20251217">No.49 千问小剧场</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">11.18</span>
+  <a href="/azureMeow/chuanchuanshao/No.48%20灵光体验%20251118">No.48 灵光</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">11.13</span>
+  <a href="/azureMeow/chuanchuanshao/No.47%20AI买药问诊对比%20251113">No.47 AI 买药问诊对比</a>
+</div>
+
+<div class="timeline-item">
+  <span class="date">09.30</span>
+  <a href="/azureMeow/chuanchuanshao/No.46%20AQ体验%20250930">No.46 AQ</a>
+</div>
+
+</div>
+
+<p class="view-all"><a href="/azureMeow/chuanchuanshao/">查看全部 50 篇 →</a></p>
+
+</div>
