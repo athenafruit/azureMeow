@@ -13,6 +13,9 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.19 可灵2.0体验 250420](/chuanchuanshao/No.19%20可灵2.0体验%20250420) <small>2025.04.20</small>
+- [No.18 GPT4o可灵即梦Gemini对比 250413](/chuanchuanshao/No.18%20GPT4o可灵即梦Gemini对比%20250413) <small>2025.04.13</small>
+- [No.17 秒哒体验 250411](/chuanchuanshao/No.17%20秒哒体验%20250411) <small>2025.04.11</small>
 - [No.16 独响体验 250223](/chuanchuanshao/No.16%20独响体验%20250223) <small>2025.02.23</small>
 - [No.15 DeepSeek体验 250130](/chuanchuanshao/No.15%20DeepSeek体验%20250130) <small>2025.01.30</small>
 - [No.14 GenSpark体验 250119](/chuanchuanshao/No.14%20GenSpark体验%20250119) <small>2025.01.19</small>
