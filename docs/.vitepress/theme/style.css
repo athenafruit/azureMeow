@@ -645,33 +645,38 @@ body {
 /* ============================================
    串串烧列表页样式
    ============================================ */
-.chuanchuanshao-container {
+.chuanchuanshao-container,
+.posts-container {
   max-width: 720px;
   margin: 0 auto;
   padding: 48px 24px 80px;
 }
 
-.chuanchuanshao-container h1 {
+.chuanchuanshao-container h1,
+.posts-container h1 {
   font-size: 2rem;
   text-align: center;
   margin-bottom: 8px;
 }
 
-.chuanchuanshao-container .page-desc {
+.chuanchuanshao-container .page-desc,
+.posts-container .page-desc {
   text-align: center;
   color: var(--vp-c-text-3);
   font-style: italic;
   margin-bottom: 32px;
 }
 
-.chuanchuanshao-container hr {
+.chuanchuanshao-container hr,
+.posts-container hr {
   border: none;
   height: 1px;
   background: var(--vp-c-divider);
   margin: 32px 0;
 }
 
-.timeline-section h2 {
+.timeline-section h2,
+.posts-container .timeline-section h2 {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--vp-c-text-1);
@@ -717,11 +722,13 @@ body {
   color: var(--vp-c-brand-1);
 }
 
-.chuanchuanshao-container .timeline-item {
-  margin-left: 16px;
+.chuanchuanshao-container .timeline-item,
+.posts-container .timeline-item {
+  margin-left: 0;
 }
 
-.chuanchuanshao-container .footer-note {
+.chuanchuanshao-container .footer-note,
+.posts-container .footer-note {
   text-align: center;
   color: var(--vp-c-text-3);
   font-size: 0.9rem;
