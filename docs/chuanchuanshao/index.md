@@ -13,6 +13,9 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.44 观猹体验 250916](/chuanchuanshao/No.44%20观猹体验%20250916) <small>2025.09.16</small>
+- [No.43 AutoGLM体验 250905](/chuanchuanshao/No.43%20AutoGLM体验%20250905) <small>2025.09.05</small>
+- [No.42 支小宝探一下体验 250901](/chuanchuanshao/No.42%20支小宝探一下体验%20250901) <small>2025.09.01</small>
 - [No.41 Banana体验 250901](/chuanchuanshao/No.41%20Banana体验%20250901) <small>2025.09.01</small>
 - [No.40 TensorArt和Liblib体验 250823](/chuanchuanshao/No.40%20TensorArt和Liblib体验%20250823) <small>2025.08.23</small>
 - [No.39 Dia浏览器思考 250812](/chuanchuanshao/No.39%20Dia浏览器思考%20250812) <small>2025.08.12</small>

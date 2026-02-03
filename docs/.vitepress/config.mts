@@ -35,6 +35,9 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.44 观猹体验 250916', link: '/chuanchuanshao/No.44 观猹体验 250916' },
+            { text: 'No.43 AutoGLM体验 250905', link: '/chuanchuanshao/No.43 AutoGLM体验 250905' },
+            { text: 'No.42 支小宝探一下体验 250901', link: '/chuanchuanshao/No.42 支小宝探一下体验 250901' },
             { text: 'No.41 Banana体验 250901', link: '/chuanchuanshao/No.41 Banana体验 250901' },
             { text: 'No.40 TensorArt和Liblib体验 250823', link: '/chuanchuanshao/No.40 TensorArt和Liblib体验 250823' },
             { text: 'No.39 Dia浏览器思考 250812', link: '/chuanchuanshao/No.39 Dia浏览器思考 250812' },
