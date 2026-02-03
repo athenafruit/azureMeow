@@ -35,6 +35,7 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.21 通义首尾帧模型体验 250423', link: '/chuanchuanshao/No.21 通义首尾帧模型体验 250423' },
             { text: 'No.20 扣子空间体验 250420', link: '/chuanchuanshao/No.20 扣子空间体验 250420' },
             { text: 'No.19 可灵2.0体验 250420', link: '/chuanchuanshao/No.19 可灵2.0体验 250420' },
             { text: 'No.18 GPT4o可灵即梦Gemini对比 250413', link: '/chuanchuanshao/No.18 GPT4o可灵即梦Gemini对比 250413' },

@@ -13,6 +13,7 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.21 通义首尾帧模型体验 250423](/chuanchuanshao/No.21%20通义首尾帧模型体验%20250423) <small>2025.04.23</small>
 - [No.20 扣子空间体验 250420](/chuanchuanshao/No.20%20扣子空间体验%20250420) <small>2025.04.20</small>
 - [No.19 可灵2.0体验 250420](/chuanchuanshao/No.19%20可灵2.0体验%20250420) <small>2025.04.20</small>
 - [No.18 GPT4o可灵即梦Gemini对比 250413](/chuanchuanshao/No.18%20GPT4o可灵即梦Gemini对比%20250413) <small>2025.04.13</small>
