@@ -35,6 +35,7 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.6 Coze模型广场体验 240613', link: '/chuanchuanshao/No.6 Coze模型广场体验 240613' },
             { text: 'No.4&5 知我AI&飞脑体验 240612', link: '/chuanchuanshao/No.4&5 知我AI&飞脑体验 240612' },
             { text: 'No.3 海螺AI体验 240603', link: '/chuanchuanshao/No.3 海螺AI体验 240603' },
             { text: 'No.2 百度文库体验 240602', link: '/chuanchuanshao/No.2 百度文库体验 240602' },
