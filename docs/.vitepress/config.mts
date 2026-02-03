@@ -35,6 +35,7 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.50 NotebookLM思考 260110', link: '/chuanchuanshao/No.50 NotebookLM思考 260110' },
             { text: 'No.49 千问小剧场体验 251217', link: '/chuanchuanshao/No.49 千问小剧场体验 251217' },
             { text: 'No.48 灵光体验 251118', link: '/chuanchuanshao/No.48 灵光体验 251118' },
             { text: 'No.47 AI买药问诊对比 251113', link: '/chuanchuanshao/No.47 AI买药问诊对比 251113' },
