@@ -13,6 +13,8 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.15 DeepSeek体验 250130](/chuanchuanshao/No.15%20DeepSeek体验%20250130) <small>2025.01.30</small>
+- [No.14 GenSpark体验 250119](/chuanchuanshao/No.14%20GenSpark体验%20250119) <small>2025.01.19</small>
 - [No.13 点评小贴士必吃攻略 250101](/chuanchuanshao/No.13%20点评小贴士必吃攻略%20250101) <small>2025.01.01</small>
 - [No.12 点点体验 240922](/chuanchuanshao/No.12%20点点体验%20240922) <small>2024.09.22</small>
 - [No.11 支小宝和文小言体验 240908](/chuanchuanshao/No.11%20支小宝和文小言体验%20240908) <small>2024.09.08</small>

@@ -35,6 +35,8 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.15 DeepSeek体验 250130', link: '/chuanchuanshao/No.15 DeepSeek体验 250130' },
+            { text: 'No.14 GenSpark体验 250119', link: '/chuanchuanshao/No.14 GenSpark体验 250119' },
             { text: 'No.13 点评小贴士必吃攻略 250101', link: '/chuanchuanshao/No.13 点评小贴士必吃攻略 250101' },
             { text: 'No.12 点点体验 240922', link: '/chuanchuanshao/No.12 点点体验 240922' },
             { text: 'No.11 支小宝和文小言体验 240908', link: '/chuanchuanshao/No.11 支小宝和文小言体验 240908' },
