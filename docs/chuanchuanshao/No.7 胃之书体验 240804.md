@@ -21,9 +21,13 @@ tags: [AI, 胃之书, 健康, 热量识别]
 
 4. **稳定性一般**。居然出现告诉我重试的情况，且重试后毫无反应。另外识别菜品也出现幻觉，同一张图片两次菜品识别不一样
 
-<!-- 图片占位
-![截图](/images/jike/7_weizhishu/7_weizhishu_1.jpg)
--->
+![胃之书截图1](/images/jike/7_weizhishu/7_weizhishu_1.png)
+
+![胃之书截图2](/images/jike/7_weizhishu/7_weizhishu_2.png)
+
+![胃之书截图3](/images/jike/7_weizhishu/7_weizhishu_3.png)
+
+![胃之书截图4](/images/jike/7_weizhishu/7_weizhishu_4.png)
 
 ## 一些想法
 
