@@ -13,6 +13,14 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.30 Granola体验 250602](/chuanchuanshao/No.30%20Granola体验%20250602) <small>2025.06.02</small>
+- [No.29 海绵音乐体验 250531](/chuanchuanshao/No.29%20海绵音乐体验%20250531) <small>2025.05.31</small>
+- [No.28 YouWare体验 250527](/chuanchuanshao/No.28%20YouWare体验%20250527) <small>2025.05.27</small>
+- [No.27 秘塔搜索今天学点啥 250525](/chuanchuanshao/No.27%20秘塔搜索今天学点啥%20250525) <small>2025.05.25</small>
+- [No.26 Medeo体验 250525](/chuanchuanshao/No.26%20Medeo体验%20250525) <small>2025.05.25</small>
+- [No.25 Lovart体验 250525](/chuanchuanshao/No.25%20Lovart体验%20250525) <small>2025.05.25</small>
+- [No.24 Manus体验 250515](/chuanchuanshao/No.24%20Manus体验%20250515) <small>2025.05.15</small>
+- [No.23 Poify.ai体验 250512](/chuanchuanshao/No.23%20Poify.ai体验%20250512) <small>2025.05.12</small>
 - [No.22 飞猪旅行体验 250426](/chuanchuanshao/No.22%20飞猪旅行体验%20250426) <small>2025.04.26</small>
 - [No.21 通义首尾帧模型体验 250423](/chuanchuanshao/No.21%20通义首尾帧模型体验%20250423) <small>2025.04.23</small>
 - [No.20 扣子空间体验 250420](/chuanchuanshao/No.20%20扣子空间体验%20250420) <small>2025.04.20</small>
