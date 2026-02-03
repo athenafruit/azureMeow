@@ -35,6 +35,13 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.37 博查搜索体验 250722', link: '/chuanchuanshao/No.37 博查搜索体验 250722' },
+            { text: 'No.36 Tizzy.zi体验 250720', link: '/chuanchuanshao/No.36 Tizzy.zi体验 250720' },
+            { text: 'No.35 X家机器人Ani体验 250720', link: '/chuanchuanshao/No.35 X家机器人Ani体验 250720' },
+            { text: 'No.34 星流Agent体验 250707', link: '/chuanchuanshao/No.34 星流Agent体验 250707' },
+            { text: 'No.33 可颂体验 250706', link: '/chuanchuanshao/No.33 可颂体验 250706' },
+            { text: 'No.32 ima知识库体验 250706', link: '/chuanchuanshao/No.32 ima知识库体验 250706' },
+            { text: 'No.31 MiniMax R1体验 250622', link: '/chuanchuanshao/No.31 MiniMax R1体验 250622' },
             { text: 'No.30 Granola体验 250602', link: '/chuanchuanshao/No.30 Granola体验 250602' },
             { text: 'No.29 海绵音乐体验 250531', link: '/chuanchuanshao/No.29 海绵音乐体验 250531' },
             { text: 'No.28 YouWare体验 250527', link: '/chuanchuanshao/No.28 YouWare体验 250527' },

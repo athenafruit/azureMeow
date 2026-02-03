@@ -13,6 +13,13 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.37 博查搜索体验 250722](/chuanchuanshao/No.37%20博查搜索体验%20250722) <small>2025.07.22</small>
+- [No.36 Tizzy.zi体验 250720](/chuanchuanshao/No.36%20Tizzy.zi体验%20250720) <small>2025.07.20</small>
+- [No.35 X家机器人Ani体验 250720](/chuanchuanshao/No.35%20X家机器人Ani体验%20250720) <small>2025.07.20</small>
+- [No.34 星流Agent体验 250707](/chuanchuanshao/No.34%20星流Agent体验%20250707) <small>2025.07.07</small>
+- [No.33 可颂体验 250706](/chuanchuanshao/No.33%20可颂体验%20250706) <small>2025.07.06</small>
+- [No.32 ima知识库体验 250706](/chuanchuanshao/No.32%20ima知识库体验%20250706) <small>2025.07.06</small>
+- [No.31 MiniMax R1体验 250622](/chuanchuanshao/No.31%20MiniMax%20R1体验%20250622) <small>2025.06.22</small>
 - [No.30 Granola体验 250602](/chuanchuanshao/No.30%20Granola体验%20250602) <small>2025.06.02</small>
 - [No.29 海绵音乐体验 250531](/chuanchuanshao/No.29%20海绵音乐体验%20250531) <small>2025.05.31</small>
 - [No.28 YouWare体验 250527](/chuanchuanshao/No.28%20YouWare体验%20250527) <small>2025.05.27</small>
