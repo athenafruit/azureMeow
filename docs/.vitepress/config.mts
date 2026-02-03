@@ -35,6 +35,7 @@ export default defineConfig({
           text: '🍢 产品串串烧',
           items: [
             { text: '关于串串烧', link: '/chuanchuanshao/' },
+            { text: 'No.46 AQ体验 250930', link: '/chuanchuanshao/No.46 AQ体验 250930' },
             { text: 'No.45 兔兔鸭体验 250926', link: '/chuanchuanshao/No.45 兔兔鸭体验 250926' },
             { text: 'No.44 观猹体验 250916', link: '/chuanchuanshao/No.44 观猹体验 250916' },
             { text: 'No.43 AutoGLM体验 250905', link: '/chuanchuanshao/No.43 AutoGLM体验 250905' },

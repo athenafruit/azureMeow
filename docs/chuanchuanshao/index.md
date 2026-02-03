@@ -13,6 +13,7 @@ description: 随手记录的产品小体验，一口一个，回味无穷
 
 ## 最新串串
 
+- [No.46 AQ体验 250930](/chuanchuanshao/No.46%20AQ体验%20250930) <small>2025.09.30</small>
 - [No.45 兔兔鸭体验 250926](/chuanchuanshao/No.45%20兔兔鸭体验%20250926) <small>2025.09.26</small>
 - [No.44 观猹体验 250916](/chuanchuanshao/No.44%20观猹体验%20250916) <small>2025.09.16</small>
 - [No.43 AutoGLM体验 250905](/chuanchuanshao/No.43%20AutoGLM体验%20250905) <small>2025.09.05</small>
