@@ -30,8 +30,7 @@
 
 ## 🔗 联系方式
 
-- **GitHub**: [github.com](https://github.com)
-- **Email**: example@email.com
+- **Email**: athena7fruit@gmail.com
 
 ---
 
